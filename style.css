@@ -1,0 +1,56 @@
+.buttons {
+    gap: 18px;
+}
+
+.modal-title {
+    width: 167px;
+    height: 22px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000000;
+}
+
+.dummy-content-modal {
+    width: 470px;
+    height: 16px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.modal-form-label {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #000000;
+}
+
+.form-group ::placeholder {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #214061;
+}
+
+.submit-btn {
+    width: 189px;
+    height: 35px;
+    color: #FFFFFF;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    background: #000000;
+    border-radius: 4px;
+}
+
+.edit-btn {
+    background: #FFFFFF;
+    border-radius: 4px;
+}
